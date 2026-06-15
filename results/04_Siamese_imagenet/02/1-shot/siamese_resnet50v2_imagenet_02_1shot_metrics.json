@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.8250950570342205,
+  "precision_weighted": 0.9724129072037817,
+  "recall_weighted": 0.8250950570342205,
+  "f1_weighted": 0.8812018918668274,
+  "precision_macro": 0.5710800874403815,
+  "recall_macro": 0.8896241830065359,
+  "f1_macro": 0.5755021520803443,
+  "auc_macro": 0.966421568627451,
+  "auc_ovr": 0.966421568627451,
+  "auc_por_classe": {
+    "No Finding": 0.9690087145969499,
+    "Pneumonia": 0.963834422657952
+  }
+}

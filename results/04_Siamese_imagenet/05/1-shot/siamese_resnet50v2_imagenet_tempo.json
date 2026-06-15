@@ -1,0 +1,40 @@
+{
+  "modelo": "siamese_resnet50v2_imagenet",
+  "experimento": "05",
+  "dataset": "all",
+  "shot": 1,
+  "ancoras": 4,
+  "tripletas_treino": 204,
+  "tripletas_validacao": 52,
+  "batch_treino": 8,
+  "passos_por_epoca": 26,
+  "tempo_segundos": 1154.01,
+  "tempo_formatado": "19m 14s",
+  "epochs": 100,
+  "acuracia_tripletas_val": 0.9808,
+  "metricas_teste_few_shot": {
+    "accuracy": 0.7732046551234744,
+    "precision_weighted": 0.8312415232496111,
+    "recall_weighted": 0.7732046551234744,
+    "f1_weighted": 0.7886707654787842,
+    "precision_macro": 0.6453205931121451,
+    "recall_macro": 0.7763520014367105,
+    "f1_macro": 0.685623359759557,
+    "auc_macro": 0.9257729061054681,
+    "auc_ovr": 0.9257729061054681,
+    "auc_por_classe": {
+      "No Finding": 0.9250011301085252,
+      "Pneumonia": 0.9649126015653653,
+      "Tuberculosis": 0.8750828189838546,
+      "Convid": 0.9380950737641273
+    }
+  },
+  "melhor_pesos": "C:\\Users\\marce\\Documents\\GitHub\\Projeto_Final\\results\\04_Siamese_imagenet\\05\\1-shot\\siamese_resnet50v2_imagenet.melhor_pesos.weights.h5",
+  "modelo_carregado": "C:\\Users\\marce\\Documents\\GitHub\\Projeto_Final\\results\\04_Siamese_imagenet\\05\\1-shot\\siamese_resnet50v2_imagenet.melhor_pesos.weights.h5",
+  "classes": [
+    "No Finding",
+    "Pneumonia",
+    "Tuberculosis",
+    "Convid"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "modelo": "resnet50v2",
+  "tempo_segundos": 8137.1,
+  "tempo_formatado": "2h 15m 37s",
+  "epochs": 50,
+  "melhor_modelo": "C:\\Users\\marce\\Documents\\GitHub\\Projeto_Final\\results\\02_ResNet50v2\\03\\resnet50v2.melhor_modelo.pt",
+  "metricas_teste": {
+    "accuracy": 0.9715025906735751,
+    "precision_weighted": 0.9717330157583172,
+    "recall_weighted": 0.9715025906735751,
+    "f1_weighted": 0.9715681380341279,
+    "precision_macro": 0.9570725303633791,
+    "recall_macro": 0.9654120555900403,
+    "f1_macro": 0.9611696782699997
+  }
+}

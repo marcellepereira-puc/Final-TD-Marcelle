@@ -1,0 +1,16 @@
+{
+  "modelo": "vgg19",
+  "tempo_segundos": 20959.91,
+  "tempo_formatado": "5h 49m 19s",
+  "epochs": 50,
+  "melhor_modelo": "C:\\Users\\marce\\Documents\\GitHub\\Projeto_Final\\results\\01_VGG_19\\03\\vgg19.melhor_modelo.pt",
+  "metricas_teste": {
+    "accuracy": 0.6018998272884283,
+    "precision_weighted": 0.3622834020898398,
+    "recall_weighted": 0.6018998272884283,
+    "f1_weighted": 0.45231717479249,
+    "precision_macro": 0.20063327576280943,
+    "recall_macro": 0.3333333333333333,
+    "f1_macro": 0.2504941599281222
+  }
+}

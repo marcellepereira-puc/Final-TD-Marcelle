@@ -1,0 +1,17 @@
+{
+  "accuracy": 0.9491525423728814,
+  "precision_weighted": 0.9633100697906282,
+  "recall_weighted": 0.9491525423728814,
+  "f1_weighted": 0.952473332171262,
+  "precision_macro": 0.8764705882352941,
+  "recall_macro": 0.9846938775510204,
+  "f1_macro": 0.9212240371042548,
+  "auc_macro": 0.9943628866640997,
+  "auc_ovr": 0.9943628866640997,
+  "auc_por_classe": {
+    "No Finding": 1.0,
+    "Pneumonia": 0.9866352201257862,
+    "Tuberculosis": 1.0,
+    "Convid": 0.9908163265306124
+  }
+}
