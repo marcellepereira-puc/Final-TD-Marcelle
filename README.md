@@ -146,5 +146,5 @@ Documentação detalhada com **todas as figuras comentadas**: [`doc/analise_resu
 
 | VGG19 (96,96%) | ResNet50V2 (97,15%) | Siamese ImageNet (99,67%) |
 |:---:|:---:|:---:|
-| ![VGG19] | ![ResNet] | ![Siamese] |
+| VGG19 | ResNet | Siamese |
 | Exp. 02 — CXR8 | Exp. 03 — Imbalanced TB | Exp. 04 — 5-shot |
