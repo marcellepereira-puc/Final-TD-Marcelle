@@ -15,7 +15,7 @@ Este repositório contém o código, os experimentos e os resultados do Trabalho
 | **No Finding** | Sem achados |
 | **Pneumonia** | Pneumonia |
 | **Tuberculosis** | Tuberculose |
-| **Convid** | COVID-19 |
+| **Covid** | COVID-19 |
 
 Foram implementados e avaliados três tipos de modelos:
 
